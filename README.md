@@ -1,7 +1,7 @@
 
 <div align="center">
   🟣 <strong><a href="https://twitch.tv/techygrrrl">twitch</a></strong> 🟣
-  <strong><a href="techygrrrl.stream">techygrrrl.stream</a></strong> 🟣
+  <strong><a href="https://techygrrrl.stream">techygrrrl.stream</a></strong> 🟣
 </div>
 
 ---
