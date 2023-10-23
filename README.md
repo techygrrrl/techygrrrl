@@ -7,11 +7,13 @@
 ---
 
 <div align="center">
+  <!--
 <img 
      style="width: 440px; display: block;"
      alt="techygrrrl's Github stats" 
      src="https://github-readme-stats.vercel.app/api?username=techygrrrl&show_icons=true&include_all_commits=true&count_private=true&bg_color=221B32&icon_color=15EFAE&title_color=EF15BF&text_color=FFFFFF&hide_border=true" 
      />
+     -->
 
 <img 
      style="width: 320px; display: block;"
